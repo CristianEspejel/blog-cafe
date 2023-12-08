@@ -1,6 +1,6 @@
 # Blog Cafe
 
-Este es un proyecto personal de un sitio web llamado Blog Cafe. Puedes ver el sitio en vivo [aquí](https://cristianespejel.github.io/blog-cafe/).
+Este es un proyecto personal de un sitio web llamado Blog Cafe. Puedes ver el sitio en vivo [aquí](https://jolly-hummingbird-cb9b1e.netlify.app/).
 
 ## Tecnologías Utilizadas
 
