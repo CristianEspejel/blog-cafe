@@ -11,12 +11,12 @@ Este es un proyecto personal de un sitio web llamado Blog Cafe. Puedes ver el si
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](screenshots/screenshot.png)
+![Captura de Pantalla 1](../screenshots/screenshot.png)
 <!-- Añade más capturas de pantalla si es necesario -->
 
 ## Enlace
 
-- [Sitio en Vivo](https://cristianespejel.github.io/blog-cafe/)
+- [Sitio en Vivo](https://jolly-hummingbird-cb9b1e.netlify.app/)
 
 ## Instalación y Uso
 
