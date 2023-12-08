@@ -11,7 +11,7 @@ Este es un proyecto personal de un sitio web llamado Blog Cafe. Puedes ver el si
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](../screenshots/screenshot.png)
+![Captura de Pantalla 1](screenshots/Screenshot.png)
 <!-- Añade más capturas de pantalla si es necesario -->
 
 ## Enlace
